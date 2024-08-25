@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password"
+    },
+    {
+      "id": "29ae",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "password": "alicepassword"
+    },
+    {
+      "id": "cabf",
+      "email": "xtpedrin1@gmail.com",
+      "password": "04586363",
+      "name": "Pedro"
+    },
+    {
+      "id": "cf67",
+      "email": "xtpedrin1@gmail.com",
+      "password": "04586363",
+      "name": "Pedro"
+    },
+    {
+      "id": "e57a",
+      "email": "Pedro@gmail.com",
+      "password": "04586363",
+      "name": "Pedro"
+    }
+  ]
+}
